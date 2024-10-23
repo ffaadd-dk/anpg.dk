@@ -17,6 +17,7 @@ jobs:
     - name: clean
       run: rm data-tmp.json
     - uses: stefanzweifel/git-auto-commit-action@v5
-      commit_message: Update from Overpass API
-      file_pattern: data.json
+      with:
+        commit_message: Update from Overpass API
+        file_pattern: data.json
      

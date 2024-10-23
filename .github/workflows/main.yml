@@ -1,6 +1,9 @@
 name: Update from Overpass API
 
-on: [workflow_dispatch]
+on: 
+  schedule:
+    - cron: "15 5 * * *"
+  workflow_dispatch:
 
 jobs:
   overpass-update:
@@ -11,8 +14,8 @@ jobs:
       run: wget --post-file=query.xml -O data.json http://overpass-api.de/api/interpreter
     - name: commit
       run: |
-          git config --global user.name 'Christian Panton (bot)'
-          git config --global user.email 'christianpanton@users.noreply.github.com'
+          git config --global user.name 'Overpass Update (bot)'
+          git config --global user.email 'ffaadd-dk@users.noreply.github.com'
           git commit -am "Update from Overpass API"
           git push
     

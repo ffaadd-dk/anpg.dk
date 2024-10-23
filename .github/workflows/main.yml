@@ -16,10 +16,7 @@ jobs:
       run: "cat data-tmp.json | jq '{elements: .elements, osm3s: {copyright: .osm3s.copyright}}' > data.json"
     - name: clean
       run: rm data-tmp.json
-    - name: commit
-      run: |
-          git config --global user.name 'Overpass Update (bot)'
-          git config --global user.email 'ffaadd-dk@users.noreply.github.com'
-          git commit -am "Update from Overpass API"
-          git push
-    
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      commit_message: Update from Overpass API
+      file_pattern: data.json
+     

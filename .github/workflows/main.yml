@@ -11,7 +11,11 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: wget
-      run: wget --post-file=query.xml -O data.json http://overpass-api.de/api/interpreter
+      run: wget --post-file=query.xml -O data-tmp.json http://overpass-api.de/api/interpreter
+    - name: jq
+      run: "cat data-tmp.json | jq '{elements: .elements, osm3s: {copyright: .osm3s.copyright}}' > data.json"
+    - name: clean
+      run: rm data-tmp.json
     - name: commit
       run: |
           git config --global user.name 'Overpass Update (bot)'

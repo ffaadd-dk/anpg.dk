@@ -4209,6 +4209,22 @@
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
       }
+    },
+    {
+      "type": "node",
+      "id": 12386393413,
+      "lat": 55.6569912,
+      "lon": 12.2861792,
+      "tags": {
+        "direction": "60;240",
+        "man_made": "surveillance",
+        "note": "Positioneret efter hukommelsen, kan være en anden lygtepæl inden for 30 m på strækningen. Ingen nyere Mapillary data til rådighed p.t.",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
     }
   ],
   "osm3s": {

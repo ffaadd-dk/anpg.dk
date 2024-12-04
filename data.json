@@ -4213,12 +4213,67 @@
     {
       "type": "node",
       "id": 12386393413,
-      "lat": 55.6569912,
-      "lon": 12.2861792,
+      "lat": 55.6570872,
+      "lon": 12.2871923,
       "tags": {
         "direction": "60;240",
         "man_made": "surveillance",
-        "note": "Positioneret efter hukommelsen, kan være en anden lygtepæl inden for 30 m på strækningen. Ingen nyere Mapillary data til rådighed p.t.",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12395907459,
+      "lat": 55.5243693,
+      "lon": 9.7289335,
+      "tags": {
+        "man_made": "surveillance",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12395936976,
+      "lat": 55.6579469,
+      "lon": 12.2831495,
+      "tags": {
+        "man_made": "surveillance",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12395936977,
+      "lat": 55.6558193,
+      "lon": 12.2733054,
+      "tags": {
+        "man_made": "surveillance",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12395936978,
+      "lat": 55.6556928,
+      "lon": 12.2825217,
+      "tags": {
+        "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
         "surveillance": "public",

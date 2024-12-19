@@ -3983,24 +3983,11 @@
     },
     {
       "type": "node",
-      "id": 12354095645,
-      "lat": 55.8355669,
-      "lon": 12.167427,
-      "tags": {
-        "man_made": "surveillance",
-        "operator": "Rigspolitiet",
-        "operator:wikidata": "Q3756751",
-        "surveillance": "public",
-        "surveillance:type": "ALPR",
-        "surveillance:zone": "traffic"
-      }
-    },
-    {
-      "type": "node",
       "id": 12354095646,
-      "lat": 55.8356343,
-      "lon": 12.1672785,
+      "lat": 55.8342003,
+      "lon": 12.1658372,
       "tags": {
+        "direction": "55",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
@@ -4040,9 +4027,10 @@
     {
       "type": "node",
       "id": 12354095649,
-      "lat": 55.8379105,
-      "lon": 12.1696072,
+      "lat": 55.8378043,
+      "lon": 12.1697273,
       "tags": {
+        "direction": "230",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
@@ -4216,7 +4204,7 @@
       "lat": 55.6570872,
       "lon": 12.2871923,
       "tags": {
-        "direction": "60;240",
+        "direction": "240",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
@@ -4242,9 +4230,10 @@
     {
       "type": "node",
       "id": 12395936976,
-      "lat": 55.6579469,
-      "lon": 12.2831495,
+      "lat": 55.6579753,
+      "lon": 12.2829042,
       "tags": {
+        "direction": "160",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
@@ -4256,9 +4245,10 @@
     {
       "type": "node",
       "id": 12395936977,
-      "lat": 55.6558193,
-      "lon": 12.2733054,
+      "lat": 55.6557007,
+      "lon": 12.2731704,
       "tags": {
+        "direction": "65",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
@@ -4270,9 +4260,10 @@
     {
       "type": "node",
       "id": 12395936978,
-      "lat": 55.6556928,
-      "lon": 12.2825217,
+      "lat": 55.6551542,
+      "lon": 12.2827587,
       "tags": {
+        "direction": "330",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
@@ -4371,6 +4362,21 @@
       "lat": 55.7627843,
       "lon": 12.4390139,
       "tags": {
+        "man_made": "surveillance",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12431486821,
+      "lat": 55.8341337,
+      "lon": 12.1660483,
+      "tags": {
+        "direction": "240",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",

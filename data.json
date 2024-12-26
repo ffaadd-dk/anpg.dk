@@ -1160,11 +1160,12 @@
     {
       "type": "node",
       "id": 7978514523,
-      "lat": 55.6504471,
-      "lon": 12.510761,
+      "lat": 55.6503757,
+      "lon": 12.510738,
       "tags": {
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
+        "operator:wikidata": "Q12337680",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
@@ -1178,6 +1179,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
+        "operator:wikidata": "Q12337680",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"

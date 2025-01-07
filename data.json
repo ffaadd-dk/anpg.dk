@@ -4417,6 +4417,51 @@
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
       }
+    },
+    {
+      "type": "node",
+      "id": 12477867909,
+      "lat": 55.4208767,
+      "lon": 10.4363007,
+      "tags": {
+        "direction": "40;220",
+        "man_made": "surveillance",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12477877301,
+      "lat": 55.4202434,
+      "lon": 10.4337949,
+      "tags": {
+        "direction": "40;220",
+        "man_made": "surveillance",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12477898555,
+      "lat": 55.4195332,
+      "lon": 10.4357202,
+      "tags": {
+        "direction": "120;300",
+        "man_made": "surveillance",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
     }
   ],
   "osm3s": {

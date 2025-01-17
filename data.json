@@ -59,7 +59,7 @@
     {
       "type": "node",
       "id": 3959883432,
-      "lat": 54.817483,
+      "lat": 54.8174830,
       "lon": 9.3244179,
       "tags": {
         "man_made": "surveillance",
@@ -116,7 +116,7 @@
       "type": "node",
       "id": 3973514224,
       "lat": 55.5461671,
-      "lon": 9.52738,
+      "lon": 9.5273800,
       "tags": {
         "image": "https://d1cuyjsrcm0gby.cloudfront.net/wwKJwsOZHJvYyEIJCq1igw/thumb-2048.jpg",
         "man_made": "surveillance",
@@ -203,7 +203,7 @@
     {
       "type": "node",
       "id": 4000780559,
-      "lat": 56.098492,
+      "lat": 56.0984920,
       "lon": 10.0305077,
       "tags": {
         "image": "https://pbs.twimg.com/media/CbLuLptXIAE93tY.jpg:large",
@@ -289,7 +289,7 @@
     {
       "type": "node",
       "id": 4003839655,
-      "lat": 55.631679,
+      "lat": 55.6316790,
       "lon": 12.6760521,
       "tags": {
         "active": "no",
@@ -449,7 +449,7 @@
     {
       "type": "node",
       "id": 4088015586,
-      "lat": 55.591026,
+      "lat": 55.5910260,
       "lon": 9.6013402,
       "tags": {
         "image": "https://d1cuyjsrcm0gby.cloudfront.net/-BmpQPfw4A2e7cGdrTPEtQ/thumb-2048.jpg",
@@ -643,7 +643,7 @@
     {
       "type": "node",
       "id": 5277912169,
-      "lat": 54.849858,
+      "lat": 54.8498580,
       "lon": 9.2405722,
       "tags": {
         "man_made": "surveillance",
@@ -841,7 +841,7 @@
     {
       "type": "node",
       "id": 6146068566,
-      "lat": 55.61705,
+      "lat": 55.6170500,
       "lon": 12.3264768,
       "tags": {
         "man_made": "surveillance",
@@ -856,7 +856,7 @@
       "type": "node",
       "id": 6146295289,
       "lat": 55.6979886,
-      "lon": 12.383793,
+      "lon": 12.3837930,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -1023,7 +1023,7 @@
     {
       "type": "node",
       "id": 6255437435,
-      "lat": 55.698654,
+      "lat": 55.6986540,
       "lon": 12.3824838,
       "tags": {
         "man_made": "surveillance",
@@ -1093,7 +1093,7 @@
     {
       "type": "node",
       "id": 6900856315,
-      "lat": 55.594378,
+      "lat": 55.5943780,
       "lon": 12.7637508,
       "tags": {
         "man_made": "surveillance",
@@ -1161,7 +1161,7 @@
       "type": "node",
       "id": 7978514523,
       "lat": 55.6503757,
-      "lon": 12.510738,
+      "lon": 12.5107380,
       "tags": {
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
@@ -1243,7 +1243,7 @@
       "type": "node",
       "id": 7978649198,
       "lat": 57.0387855,
-      "lon": 9.931702,
+      "lon": 9.9317020,
       "tags": {
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
@@ -1307,7 +1307,7 @@
     {
       "type": "node",
       "id": 7978702622,
-      "lat": 55.393239,
+      "lat": 55.3932390,
       "lon": 10.4168105,
       "tags": {
         "man_made": "surveillance",
@@ -1361,7 +1361,7 @@
     {
       "type": "node",
       "id": 9760043133,
-      "lat": 55.504374,
+      "lat": 55.5043740,
       "lon": 12.1762864,
       "tags": {
         "description": "Weigh-In-Motion system",
@@ -1461,7 +1461,7 @@
     {
       "type": "node",
       "id": 9760117258,
-      "lat": 55.792753,
+      "lat": 55.7927530,
       "lon": 9.6705441,
       "tags": {
         "active": "no",
@@ -1491,7 +1491,7 @@
     {
       "type": "node",
       "id": 9760161070,
-      "lat": 56.278587,
+      "lat": 56.2785870,
       "lon": 9.7102605,
       "tags": {
         "description": "Weigh-In-Motion system",
@@ -1521,7 +1521,7 @@
       "type": "node",
       "id": 9760161246,
       "lat": 56.8986971,
-      "lon": 9.822623,
+      "lon": 9.8226230,
       "tags": {
         "description": "Weigh-In-Motion system",
         "man_made": "surveillance",
@@ -1562,7 +1562,7 @@
     {
       "type": "node",
       "id": 9760216287,
-      "lat": 55.131945,
+      "lat": 55.1319450,
       "lon": 11.9348661,
       "tags": {
         "description": "Weigh-In-Motion system",
@@ -1694,7 +1694,7 @@
       "type": "node",
       "id": 9857572598,
       "lat": 55.6311299,
-      "lon": 12.677352,
+      "lon": 12.6773520,
       "tags": {
         "description": "Section Speed Control",
         "man_made": "surveillance",
@@ -1707,7 +1707,7 @@
       "type": "node",
       "id": 9857572599,
       "lat": 55.6311779,
-      "lon": 12.677401,
+      "lon": 12.6774010,
       "tags": {
         "description": "Section Speed Control",
         "man_made": "surveillance",
@@ -1746,7 +1746,7 @@
       "type": "node",
       "id": 11357998906,
       "lat": 55.0445324,
-      "lon": 10.606554,
+      "lon": 10.6065540,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -1877,7 +1877,7 @@
       "type": "node",
       "id": 11379942621,
       "lat": 55.3271337,
-      "lon": 8.753189,
+      "lon": 8.7531890,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -1890,7 +1890,7 @@
     {
       "type": "node",
       "id": 11435895740,
-      "lat": 56.150379,
+      "lat": 56.1503790,
       "lon": 10.2099671,
       "tags": {
         "direction": "35",
@@ -2044,7 +2044,7 @@
       "type": "node",
       "id": 11510780243,
       "lat": 55.6301107,
-      "lon": 8.430367,
+      "lon": 8.4303670,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -2172,7 +2172,7 @@
       "type": "node",
       "id": 11525830493,
       "lat": 55.5249521,
-      "lon": 8.586311,
+      "lon": 8.5863110,
       "tags": {
         "direction": "160",
         "man_made": "surveillance",
@@ -2203,7 +2203,7 @@
       "type": "node",
       "id": 11525830495,
       "lat": 55.5217529,
-      "lon": 8.590358,
+      "lon": 8.5903580,
       "tags": {
         "camera:mount": "pole",
         "direction": "310",
@@ -2246,7 +2246,7 @@
     {
       "type": "node",
       "id": 11537649088,
-      "lat": 57.084219,
+      "lat": 57.0842190,
       "lon": 9.8885546,
       "tags": {
         "man_made": "surveillance",
@@ -2358,7 +2358,7 @@
     {
       "type": "node",
       "id": 11537649096,
-      "lat": 57.374004,
+      "lat": 57.3740040,
       "lon": 9.7278824,
       "tags": {
         "man_made": "surveillance",
@@ -2373,7 +2373,7 @@
       "type": "node",
       "id": 11537649097,
       "lat": 57.3736254,
-      "lon": 9.727926,
+      "lon": 9.7279260,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -2429,7 +2429,7 @@
       "type": "node",
       "id": 11537649101,
       "lat": 57.5331253,
-      "lon": 10.420622,
+      "lon": 10.4206220,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -2471,7 +2471,7 @@
       "type": "node",
       "id": 11537707422,
       "lat": 56.6100753,
-      "lon": 9.354025,
+      "lon": 9.3540250,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -2526,7 +2526,7 @@
     {
       "type": "node",
       "id": 11537707426,
-      "lat": 55.962149,
+      "lat": 55.9621490,
       "lon": 9.4055025,
       "tags": {
         "man_made": "surveillance",
@@ -2568,8 +2568,8 @@
     {
       "type": "node",
       "id": 11537707429,
-      "lat": 57.030676,
-      "lon": 8.862494,
+      "lat": 57.0306760,
+      "lon": 8.8624940,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -2611,7 +2611,7 @@
       "type": "node",
       "id": 11543708739,
       "lat": 55.7258102,
-      "lon": 12.455128,
+      "lon": 12.4551280,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -2668,7 +2668,7 @@
       "type": "node",
       "id": 11577518986,
       "lat": 56.9822673,
-      "lon": 10.301537,
+      "lon": 10.3015370,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -2779,7 +2779,7 @@
     {
       "type": "node",
       "id": 11726596872,
-      "lat": 55.80991,
+      "lat": 55.8099100,
       "lon": 12.3820357,
       "tags": {
         "man_made": "surveillance",
@@ -2850,7 +2850,7 @@
       "type": "node",
       "id": 11735031249,
       "lat": 55.3479439,
-      "lon": 10.444797,
+      "lon": 10.4447970,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -2937,7 +2937,7 @@
     {
       "type": "node",
       "id": 11792831946,
-      "lat": 55.960522,
+      "lat": 55.9605220,
       "lon": 8.4887684,
       "tags": {
         "ALPR:direction": "140;270",
@@ -3014,7 +3014,7 @@
       "type": "node",
       "id": 11811116456,
       "lat": 55.6519064,
-      "lon": 12.38112,
+      "lon": 12.3811200,
       "tags": {
         "man_made": "surveillance",
         "surveillance": "traffic",
@@ -3093,7 +3093,7 @@
     {
       "type": "node",
       "id": 11820136361,
-      "lat": 56.002792,
+      "lat": 56.0027920,
       "lon": 12.5746381,
       "tags": {
         "man_made": "surveillance",
@@ -3119,7 +3119,7 @@
     {
       "type": "node",
       "id": 11836675910,
-      "lat": 55.698711,
+      "lat": 55.6987110,
       "lon": 12.1087151,
       "tags": {
         "man_made": "surveillance",
@@ -3174,7 +3174,7 @@
     {
       "type": "node",
       "id": 12025793336,
-      "lat": 55.375746,
+      "lat": 55.3757460,
       "lon": 11.3080886,
       "tags": {
         "man_made": "surveillance",
@@ -3230,7 +3230,7 @@
       "type": "node",
       "id": 12045452513,
       "lat": 56.1554978,
-      "lon": 9.626432,
+      "lon": 9.6264320,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -3314,8 +3314,8 @@
     {
       "type": "node",
       "id": 12083930968,
-      "lat": 55.099489,
-      "lon": 14.692764,
+      "lat": 55.0994890,
+      "lon": 14.6927640,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -3413,7 +3413,7 @@
       "type": "node",
       "id": 12091936461,
       "lat": 55.5547199,
-      "lon": 12.15404,
+      "lon": 12.1540400,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -3579,7 +3579,7 @@
     {
       "type": "node",
       "id": 12219069348,
-      "lat": 56.940401,
+      "lat": 56.9404010,
       "lon": 9.8568426,
       "tags": {
         "man_made": "surveillance",
@@ -3619,7 +3619,7 @@
     {
       "type": "node",
       "id": 12237548749,
-      "lat": 55.674899,
+      "lat": 55.6748990,
       "lon": 12.5868359,
       "tags": {
         "man_made": "surveillance",
@@ -3632,7 +3632,7 @@
     {
       "type": "node",
       "id": 12237548750,
-      "lat": 55.674965,
+      "lat": 55.6749650,
       "lon": 12.5869663,
       "tags": {
         "man_made": "surveillance",
@@ -3715,7 +3715,7 @@
       "type": "node",
       "id": 12282637809,
       "lat": 55.6413554,
-      "lon": 12.406293,
+      "lon": 12.4062930,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -3758,7 +3758,7 @@
     {
       "type": "node",
       "id": 12312351172,
-      "lat": 55.391202,
+      "lat": 55.3912020,
       "lon": 11.7660078,
       "tags": {
         "man_made": "surveillance",
@@ -3802,7 +3802,7 @@
     {
       "type": "node",
       "id": 12315394233,
-      "lat": 55.245826,
+      "lat": 55.2458260,
       "lon": 11.7140049,
       "tags": {
         "man_made": "surveillance",
@@ -3831,7 +3831,7 @@
       "type": "node",
       "id": 12318775210,
       "lat": 55.6966453,
-      "lon": 12.53494,
+      "lon": 12.5349400,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -3873,7 +3873,7 @@
       "type": "node",
       "id": 12319204469,
       "lat": 55.6467872,
-      "lon": 12.444287,
+      "lon": 12.4442870,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -3886,7 +3886,7 @@
     {
       "type": "node",
       "id": 12344175855,
-      "lat": 55.67207,
+      "lat": 55.6720700,
       "lon": 11.2070601,
       "tags": {
         "direction": "130",
@@ -3932,7 +3932,7 @@
       "type": "node",
       "id": 12354084931,
       "lat": 56.0044727,
-      "lon": 12.529506,
+      "lon": 12.5295060,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -4129,7 +4129,7 @@
     {
       "type": "node",
       "id": 12382342334,
-      "lat": 55.658842,
+      "lat": 55.6588420,
       "lon": 12.3152142,
       "tags": {
         "direction": "0",
@@ -4279,7 +4279,7 @@
       "type": "node",
       "id": 12398394844,
       "lat": 55.9434175,
-      "lon": 12.04871,
+      "lon": 12.0487100,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -4292,8 +4292,8 @@
     {
       "type": "node",
       "id": 12398394845,
-      "lat": 55.944908,
-      "lon": 12.049865,
+      "lat": 55.9449080,
+      "lon": 12.0498650,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -4348,7 +4348,7 @@
     {
       "type": "node",
       "id": 12399580506,
-      "lat": 55.764772,
+      "lat": 55.7647720,
       "lon": 12.4421978,
       "tags": {
         "man_made": "surveillance",

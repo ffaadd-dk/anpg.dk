@@ -41,6 +41,24 @@
 			border-radius: 9px;
 		}
 
+		.banner {
+			position: fixed;
+			z-index: 1000;
+			top: 0px;
+			right: 0px;
+		}
+
+		.banner-inner {
+			background: rgba(255, 255, 255, 0.8);
+			margin: 20px;
+			padding: 10px;
+		}
+
+		.banner-inner > a {
+			text-decoration: none;
+			color: #555;
+		}
+
 		.kyc {
 			position: fixed;
 			z-index: 1000;
@@ -57,6 +75,14 @@
 	<body>
 	
 	<div id="map">
+	</div>
+
+	<div class="banner">
+		<div class="banner-inner">
+			<a href="https://deflock.me/map#map=7/55.933818/10.228271">
+				Husk at <b>deflock.me</b> også har de danske nummerpladescannere.
+			</a>
+		</div>
 	</div>
 
 	<div class="kyc">

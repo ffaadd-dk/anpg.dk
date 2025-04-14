@@ -4735,6 +4735,36 @@
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
       }
+    },
+    {
+      "type": "node",
+      "id": 12752187047,
+      "lat": 56.2108430,
+      "lon": 10.0902449,
+      "tags": {
+        "direction": "190",
+        "man_made": "surveillance",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "outdoor",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12752187048,
+      "lat": 56.2108944,
+      "lon": 10.0903433,
+      "tags": {
+        "direction": "30",
+        "man_made": "surveillance",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
     }
   ],
   "osm3s": {

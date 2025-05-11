@@ -1221,6 +1221,7 @@
         "direction": "160",
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
+        "operator:wikidata": "Q12337680",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
@@ -1260,6 +1261,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
+        "operator:wikidata": "Q12337680",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"

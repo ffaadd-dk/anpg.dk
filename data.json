@@ -4777,6 +4777,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
         "surveillance": "traffic",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"

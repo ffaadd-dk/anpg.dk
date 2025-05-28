@@ -3182,6 +3182,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
+        "panoramax": "c3abec8a-5708-4f80-8cdb-82f62316f237",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"

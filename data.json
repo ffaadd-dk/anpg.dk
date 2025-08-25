@@ -1126,6 +1126,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
+        "operator:wikidata": "Q12337680",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
@@ -1139,6 +1140,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
+        "operator:wikidata": "Q12337680",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
@@ -1194,6 +1196,7 @@
         "direction": "350",
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
+        "operator:wikidata": "Q12337680",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
@@ -3169,6 +3172,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
@@ -3629,6 +3633,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
@@ -3642,6 +3647,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"

@@ -5526,6 +5526,20 @@
         "surveillance": "traffic",
         "surveillance:type": "ALPR"
       }
+    },
+    {
+      "type": "node",
+      "id": 13106663567,
+      "lat": 56.1399799,
+      "lon": 10.1738659,
+      "tags": {
+        "man_made": "surveillance",
+        "operator": "Rigspolitiet",
+        "operator:wikidata": "Q3756751",
+        "surveillance": "traffic",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
     }
   ],
   "osm3s": {

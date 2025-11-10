@@ -5549,6 +5549,34 @@
     },
     {
       "type": "node",
+      "id": 13140872878,
+      "lat": 56.1548560,
+      "lon": 10.1433645,
+      "tags": {
+        "camera:direction": "164",
+        "camera:mount": "pole",
+        "camera:type": "fixed",
+        "man_made": "surveillance",
+        "surveillance": "traffic",
+        "surveillance:type": "ALPR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13140876080,
+      "lat": 56.1521299,
+      "lon": 10.1447295,
+      "tags": {
+        "camera:direction": "144",
+        "camera:mount": "pole",
+        "camera:type": "ALPR",
+        "man_made": "surveillance",
+        "surveillance": "traffic",
+        "surveillance:type": "ALPR"
+      }
+    },
+    {
+      "type": "node",
       "id": 13150317863,
       "lat": 55.5050904,
       "lon": 9.7376016,
@@ -5573,6 +5601,90 @@
         "man_made": "surveillance",
         "surveillance:type": "ALPR",
         "surveillance:zone": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13288994184,
+      "lat": 56.1702662,
+      "lon": 10.1551720,
+      "tags": {
+        "camera:direction": "208",
+        "camera:mount": "pole",
+        "camera:type": "fixed",
+        "man_made": "surveillance",
+        "surveillance": "traffic",
+        "surveillance:type": "ALPR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13288994185,
+      "lat": 56.1702747,
+      "lon": 10.1551497,
+      "tags": {
+        "camera:direction": "31",
+        "camera:mount": "pole",
+        "camera:type": "fixed",
+        "man_made": "surveillance",
+        "surveillance": "traffic",
+        "surveillance:type": "ALPR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13289050132,
+      "lat": 56.1521196,
+      "lon": 10.1446815,
+      "tags": {
+        "camera:direction": "324",
+        "camera:mount": "pole",
+        "camera:type": "fixed",
+        "man_made": "surveillance",
+        "surveillance": "traffic",
+        "surveillance:type": "ALPR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13289053006,
+      "lat": 56.1548519,
+      "lon": 10.1433113,
+      "tags": {
+        "camera:direction": "342",
+        "camera:mount": "pole",
+        "camera:type": "fixed",
+        "man_made": "surveillance",
+        "surveillance": "traffic",
+        "surveillance:type": "ALPR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13289083605,
+      "lat": 56.1718637,
+      "lon": 10.1579892,
+      "tags": {
+        "camera:direction": "221",
+        "camera:mount": "pole",
+        "camera:type": "fixed",
+        "man_made": "surveillance",
+        "surveillance": "traffic",
+        "surveillance:type": "ALPR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13289083606,
+      "lat": 56.1718818,
+      "lon": 10.1579560,
+      "tags": {
+        "camera:direction": "41",
+        "camera:mount": "pole",
+        "camera:type": "fixed",
+        "man_made": "surveillance",
+        "surveillance": "traffic",
+        "surveillance:type": "ALPR"
       }
     }
   ],

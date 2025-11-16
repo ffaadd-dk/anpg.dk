@@ -5686,6 +5686,18 @@
         "surveillance": "traffic",
         "surveillance:type": "ALPR"
       }
+    },
+    {
+      "type": "node",
+      "id": 13306995162,
+      "lat": 55.7861255,
+      "lon": 9.6684554,
+      "tags": {
+        "camera:type": "fixed",
+        "direction": "135",
+        "man_made": "surveillance",
+        "surveillance:type": "ALPR"
+      }
     }
   ],
   "osm3s": {

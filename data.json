@@ -5698,6 +5698,45 @@
         "man_made": "surveillance",
         "surveillance:type": "ALPR"
       }
+    },
+    {
+      "type": "node",
+      "id": 13325808783,
+      "lat": 56.1573098,
+      "lon": 10.1903040,
+      "tags": {
+        "camera:type": "fixed",
+        "direction": "260",
+        "man_made": "surveillance",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "parking"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13326535233,
+      "lat": 55.5394144,
+      "lon": 9.6993771,
+      "tags": {
+        "camera:type": "fixed",
+        "direction": "235",
+        "man_made": "surveillance",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13326535234,
+      "lat": 55.5393915,
+      "lon": 9.6993596,
+      "tags": {
+        "camera:type": "fixed",
+        "direction": "235;345",
+        "man_made": "surveillance",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "entrance"
+      }
     }
   ],
   "osm3s": {

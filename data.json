@@ -5738,6 +5738,18 @@
         "surveillance:type": "ALPR",
         "surveillance:zone": "entrance"
       }
+    },
+    {
+      "type": "node",
+      "id": 13397857577,
+      "lat": 57.1591082,
+      "lon": 10.2880155,
+      "tags": {
+        "camera:type": "fixed",
+        "direction": "45",
+        "man_made": "surveillance",
+        "surveillance:type": "ALPR"
+      }
     }
   ],
   "osm3s": {

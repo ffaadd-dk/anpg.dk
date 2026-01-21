@@ -1378,6 +1378,7 @@
         "description": "Weigh-In-Motion system",
         "man_made": "surveillance",
         "operator": "Vejdirektoratet",
+        "operator:wikidata": "Q1630101",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"

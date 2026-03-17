@@ -1556,6 +1556,7 @@
         "description": "Weigh-In-Motion system",
         "man_made": "surveillance",
         "operator": "Vejdirektoratet",
+        "operator:wikidata": "Q1630101",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
@@ -2472,9 +2473,10 @@
     {
       "type": "node",
       "id": 11537707421,
-      "lat": 56.6104412,
-      "lon": 9.3530343,
+      "lat": 56.6107898,
+      "lon": 9.3528930,
       "tags": {
+        "direction": "160;340",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
@@ -2514,9 +2516,10 @@
     {
       "type": "node",
       "id": 11537707424,
-      "lat": 56.6100603,
-      "lon": 9.3525389,
+      "lat": 56.6101092,
+      "lon": 9.3521113,
       "tags": {
+        "direction": "90;270",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",

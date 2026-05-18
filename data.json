@@ -17,9 +17,10 @@
     {
       "type": "node",
       "id": 3959313117,
-      "lat": 54.8159765,
-      "lon": 9.3240848,
+      "lat": 54.8159686,
+      "lon": 9.3240704,
       "tags": {
+        "direction": "15",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
@@ -31,9 +32,10 @@
     {
       "type": "node",
       "id": 3959313118,
-      "lat": 54.8158114,
-      "lon": 9.3241165,
+      "lat": 54.8158030,
+      "lon": 9.3240962,
       "tags": {
+        "direction": "15",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
@@ -5895,6 +5897,34 @@
         "surveillance": "outdoor",
         "surveillance:type": "ALPR",
         "surveillance:zone": "entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13839142549,
+      "lat": 55.4709561,
+      "lon": 9.4720224,
+      "tags": {
+        "camera:type": "fixed",
+        "direction": "215",
+        "man_made": "surveillance",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13839176150,
+      "lat": 55.4694922,
+      "lon": 9.4709488,
+      "tags": {
+        "camera:type": "fixed",
+        "direction": "15",
+        "man_made": "surveillance",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
       }
     }
   ],

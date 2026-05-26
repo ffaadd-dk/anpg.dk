@@ -2706,9 +2706,10 @@
     {
       "type": "node",
       "id": 11599217536,
-      "lat": 55.9189867,
-      "lon": 9.1711298,
+      "lat": 55.9188936,
+      "lon": 9.1712247,
       "tags": {
+        "direction": "120;300",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",

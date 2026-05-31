@@ -1556,10 +1556,11 @@
     {
       "type": "node",
       "id": 9760161247,
-      "lat": 56.8875883,
-      "lon": 9.8100477,
+      "lat": 56.8875540,
+      "lon": 9.8100306,
       "tags": {
         "description": "Weigh-In-Motion system",
+        "direction": "200",
         "man_made": "surveillance",
         "operator": "Vejdirektoratet",
         "operator:wikidata": "Q1630101",
@@ -3611,11 +3612,13 @@
     {
       "type": "node",
       "id": 12219069348,
-      "lat": 56.9404010,
-      "lon": 9.8568426,
+      "lat": 56.9398046,
+      "lon": 9.8564059,
       "tags": {
+        "direction": "205",
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
+        "operator:wikidata": "Q12337680",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
@@ -4085,6 +4088,7 @@
       "tags": {
         "man_made": "surveillance",
         "operator": "Sund & Bælt",
+        "operator:wikidata": "Q12337680",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
@@ -5970,6 +5974,21 @@
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13897631561,
+      "lat": 56.9399110,
+      "lon": 9.8562882,
+      "tags": {
+        "direction": "25",
+        "man_made": "surveillance",
+        "operator": "Sund & Bælt",
+        "operator:wikidata": "Q12337680",
         "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"

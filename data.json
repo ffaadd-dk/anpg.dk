@@ -2542,6 +2542,7 @@
       "lat": 55.9631039,
       "lon": 9.4055948,
       "tags": {
+        "direction": "355;175",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",

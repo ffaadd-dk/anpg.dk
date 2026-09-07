@@ -89,8 +89,8 @@
     {
       "type": "node",
       "id": 3966740634,
-      "lat": 54.8166385,
-      "lon": 9.3608425,
+      "lat": 54.8169007,
+      "lon": 9.3605448,
       "tags": {
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
@@ -6191,6 +6191,20 @@
         "camera:type": "fixed",
         "direction": "75",
         "man_made": "surveillance",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14158186315,
+      "lat": 57.0864345,
+      "lon": 9.9732564,
+      "tags": {
+        "camera:type": "fixed",
+        "direction": "15",
+        "man_made": "surveillance",
+        "surveillance": "public",
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
       }

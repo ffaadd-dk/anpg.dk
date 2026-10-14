@@ -6223,6 +6223,34 @@
         "surveillance:type": "ALPR",
         "surveillance:zone": "traffic"
       }
+    },
+    {
+      "type": "node",
+      "id": 14281046940,
+      "lat": 57.0869169,
+      "lon": 9.9750778,
+      "tags": {
+        "camera:type": "fixed",
+        "direction": "235",
+        "man_made": "surveillance",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14281046941,
+      "lat": 57.0868532,
+      "lon": 9.9751564,
+      "tags": {
+        "camera:type": "fixed",
+        "direction": "235",
+        "man_made": "surveillance",
+        "surveillance": "public",
+        "surveillance:type": "ALPR",
+        "surveillance:zone": "traffic"
+      }
     }
   ],
   "osm3s": {

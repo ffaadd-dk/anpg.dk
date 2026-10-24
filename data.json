@@ -3579,6 +3579,7 @@
       "lat": 57.0548163,
       "lon": 9.9198148,
       "tags": {
+        "camera:type": "panorama",
         "man_made": "surveillance",
         "operator": "Rigspolitiet",
         "operator:wikidata": "Q3756751",
